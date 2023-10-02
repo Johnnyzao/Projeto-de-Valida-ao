@@ -1,0 +1,82 @@
+{
+  "morada": [
+    {
+      "id": 1,
+      "rua": "maia",
+      "numero": "267",
+      "porta": "1ºEsquerdo",
+      "codigopostal": "4465-745"
+    },
+    {
+      "rua": "maia",
+      "numero": "267",
+      "porta": "1ºEsquerdo",
+      "codigopostal": "4465-744",
+      "id": 2
+    },
+    {
+      "rua": "wer",
+      "numero": "2314",
+      "porta": "2314",
+      "codigopostal": "1234",
+      "active": true,
+      "id": 4
+    },
+    {
+      "rua": "2435",
+      "numero": "2134",
+      "porta": "2314",
+      "codigopostal": "2134",
+      "active": true,
+      "id": 5
+    },
+    {
+      "rua": "1234",
+      "numero": "2314",
+      "porta": "1234",
+      "codigopostal": "2134",
+      "active": true,
+      "id": 6
+    },
+    {
+      "rua": "2134",
+      "numero": "124",
+      "porta": "24",
+      "codigopostal": "2134",
+      "active": true,
+      "id": 7
+    },
+    {
+      "rua": "1234",
+      "numero": "2134",
+      "porta": "2134",
+      "codigopostal": "2134",
+      "active": true,
+      "id": 8
+    },
+    {
+      "rua": "wer",
+      "numero": "1234",
+      "porta": "2314",
+      "codigopostal": "1234",
+      "active": true,
+      "id": 9
+    },
+    {
+      "rua": "weqr231",
+      "numero": "1234",
+      "porta": "2134",
+      "codigopostal": "2314",
+      "active": true,
+      "id": 10
+    },
+    {
+      "rua": "wqer",
+      "numero": "41234",
+      "porta": "234",
+      "codigopostal": "2134",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
